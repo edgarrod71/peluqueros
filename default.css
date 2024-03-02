@@ -1,0 +1,44 @@
+* {
+    border: 1px dotted;
+}
+
+header h1 {
+    padding-left: 35px;
+}
+
+body h2 {
+    color: blueviolet;
+    text-align: center;
+    /* height: -1px; */
+    border: 10px solid;
+    padding-top: 30px;  /* padding-bottom: sólo bastan estos dos cuando se quiere centrar verticalmente un texto o párrafo */
+    margin: 50px;
+}
+
+.bannerto {  /* La primera imagen, la de arriba */
+    width: 100%;
+}
+
+.lista_general {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15px;
+}
+
+.lista_general li {
+    font-style: italic;
+}
+
+.barbados {
+    width: 30%;
+}
+
+.divi01 {
+    padding: 20px;
+    background: #eeddcc;
+}
+
+.divi02 {
+    padding: 30px;
+}

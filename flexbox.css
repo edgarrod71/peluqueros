@@ -1,0 +1,20 @@
+.clearfix {
+    width: 900px;
+    margin: 0 auto;
+}
+.clearfix div {
+    box-sizing: border-box;
+    float: left;
+    width: 33.33%;
+    padding: 6px;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .clearfix img { 
+      width: 100%; 
+      outline: 1px solid brown; 
+      outline-offset: 4px;
+  }

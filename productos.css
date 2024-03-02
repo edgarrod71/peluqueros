@@ -1,0 +1,106 @@
+header {
+    background-color: #BBB;
+    padding: 10px 0;
+}
+
+nav {
+    position: absolute; 
+    top: 110px; 
+    right: 150px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px
+}
+
+.opcionesDiv {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 700;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+main ul {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+main li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.1%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 22px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 23px;
+}
+
+main li:hover {
+    border-color: orangered;
+}
+
+nav a:hover {
+    border-color: orange;
+    text-decoration: underline;
+}
+
+main li:active {
+    border: 2px solid #088c19;
+}
+
+main li:hover h2 {
+    font-weight: bolder;
+    color: orangered;
+}
+
+main li:hover p:last-of-type {
+    font-size: 30px;
+}
+
+main li h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px auto;
+}
+
+main li p {
+    margin: 0 auto 20px;
+}
+
+main li p:first-of-type {
+    font-size: 18px;
+    font-style: oblique;
+}
+
+main li p:last-of-type {
+    font-size: 24px;
+    font-weight: bold;
+    height: 46px;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    background: url("imagenes/bg.jpg");
+    padding: 40px;
+    color: white;
+    font-size: small;
+}
+
+footer p {
+    margin: 20px;
+}

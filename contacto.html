@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">    
+    <link rel="stylesheet" href="contacto.css">
+    <title>Contacto Barbería Alura</title>
+    <style>
+
+    </style>
+</head>
+<body>
+    <header>
+        <div class="opcionesDiv">
+            <h1><img src="imagenes/logo.png" alt=""></h1>
+            <nav>
+                <li><a href="main.html">home</a></li>
+                <li><a href="productos.html">productos</a></li>
+                <li><a href="">contacto</a></li>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <form action="" method="post">
+                <div>
+                    <label for="nombreApellido">Nombres Completos
+                        <input type="text" id="nombreApellido" required />
+                    </label>
+                    <label for="email">Correo Electrónico
+                        <input type="email" id="email" required />
+                    </label>
+                    <label for="telefono">Teléfono
+                        <input type="tel" id="telefono" required />
+                    </label>
+                    <fieldset>
+                        <label>Horario:
+                            <div>
+                                <label for="mañana">
+                                    <input type="radio" id="mañana" name="horario" value="mañana" required />mañana
+                                </label>
+                                <label for="tarde">
+                                    <input type="radio" id="tarde" name="horario" value="tarde" />tarde
+                                </label>
+                                <label for="noche">
+                                    <input type="radio" id="noche" name="horario" value="noche" />noche
+                                </label>
+                            </div>
+                        </label>
+                    </fieldset>
+                    <legend> Comentarios (cualquiera) 
+                        <textarea name="comentarios" id="comentarios" cols="80" rows="4"></textarea>   
+                    </legend>
+                    <fieldset>
+                        <legend>¿Cómo le gustaría ser contactado?                    
+                        <select name="contactado" id="contactado">
+                            <option value="tel">Teléfono</option>
+                            <option value="wha" selected>Whatsapp</option>
+                            <option value="han">Hangouts</option>
+                            <option value="gra">Telegram</option>
+                            <option value="mes">Messenger</option>
+                            <option value="zoo">Zoom</option>
+                        </select>
+                </legend>
+                    <label>
+                        <input type="checkbox">¿Le gustaría recibir noticias?
+                    </label>
+
+                    <input type="submit" value="Enviar" />
+            </div>
+        </fieldset>
+    </form>
+
+    <table>
+        <thead>
+            <th>Día
+            <th>Horario
+        </thead>
+        <tr>
+            <td>Lun
+            <td>8am-8pm
+        <tr>
+            <td>Mar
+            <td>8am-7pm
+        <tr>
+            <td>Mié
+            <td rowspan="2">10am-10pm <!-- mira el Jueves -->
+        <tr>
+            <td>Jue    
+        </tr>
+        <tfoot>
+            <th colspan="2">escríbenos: edgarrod71@gmail.com
+    </table>
+
+    </main>
+    <footer>
+        <img src="imagenes/logo-blanco.png" alt="logo en blanco">
+        <p>&REG; 2024 - Alura Industries</p>
+    </footer>
+</body>
+</html>

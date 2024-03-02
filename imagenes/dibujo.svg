@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#e1e1e1"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45878928"
+     inkscape:cx="396.69628"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1280"
+     inkscape:window-height="688"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath202">
+      <ellipse
+         style="fill:none;stroke:#ff0000;stroke-width:0.247923"
+         id="ellipse204"
+         cx="46.424263"
+         cy="43.361534"
+         rx="37.217789"
+         ry="40.945335" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <a
+       id="a172"
+       xlink:href="https://www.facebook.com"
+       xlink:show="new"
+       target="_self"
+       transform="matrix(2.2008821,0,0,1.8103777,-42.197638,-22.272605)"
+       clip-path="url(#clipPath202)">
+      <image
+         width="88.19445"
+         height="88.19445"
+         preserveAspectRatio="none"
+         xlink:href="https://images.pexels.com/photos/6347919/pexels-photo-6347919.jpeg?w=600&amp;h=500&amp;dpr=1"
+         id="image541"
+         x="2.8834989"
+         y="1.7300971" />
+    </a>
+    <a
+       id="a141"
+       xlink:href="https://www.apple.com"
+       xlink:show="new"
+       target="blank_"
+       transform="translate(74.970874,2.8834952)"
+       style="fill:#ffff00">
+      <path
+         sodipodi:type="spiral"
+         style="fill:#ffff00;stroke:#ff0000"
+         id="path36"
+         sodipodi:cx="65.389496"
+         sodipodi:cy="117.7011"
+         sodipodi:expansion="1.95"
+         sodipodi:revolution="6.1300001"
+         sodipodi:radius="135.94447"
+         sodipodi:argument="-37.662453"
+         sodipodi:t0="0"
+         d="m 65.389496,117.7011 c 0.119287,0.004 0.01888,0.2322 -0.0097,0.26516 -0.306026,0.35263 -0.840721,0.002 -1.014778,-0.30273 -0.511056,-0.89497 0.272804,-1.91127 1.107348,-2.2213 1.731115,-0.64309 3.437241,0.78418 3.875573,2.40405 0.761265,2.81328 -1.525933,5.4141 -4.182741,5.97123 -4.140892,0.86833 -7.837348,-2.49421 -8.503374,-6.4365 -0.965121,-5.71267 3.686224,-10.70305 9.160034,-11.46806 7.527174,-1.052 14.007802,5.09981 14.861984,12.34908 1.129161,9.58297 -6.733183,17.74866 -16.000077,18.68229 C 52.804994,138.14109 42.760744,128.3595 41.757265,116.83438 40.502318,102.42111 52.410656,90.305883 66.433248,89.242049 83.618677,87.938264 97.996301,102.17977 99.111095,118.93786 100.45447,139.13205 83.674333,155.96263 63.943819,157.11907 40.505213,158.49286 21.031933,138.96953 19.84306,116.03066 18.447966,89.112864 40.918264,66.807854 67.300491,65.595709 97.931438,64.188353 123.25653,89.808636 124.48286,119.86839 125.89349,154.44568 96.92089,182.97858 62.950242,184.21006 24.194131,185.61502 -7.7337242,153.08843 -8.9613858,114.97424 -10.35179,71.807505 25.929879,36.298098 68.419556,35.083182 c 47.808534,-1.366998 87.085574,38.870259 88.278864,85.966728 1.33479,52.6809 -43.05803,95.91117 -94.991989,97.074 C 3.9231701,219.41771 -43.445471,170.66986 -44.569045,113.66831 -45.813125,50.553229 7.4887456,-1.1384798 69.787453,-2.2140379 138.46329,-3.3996944 194.66235,54.654723 195.68117,122.47963 c 0.54932,36.56968 -14.65642,72.29866 -40.92596,97.66496"
+         transform="matrix(0.26458333,0,0,0.26458333,13.264078,2.3067961)" />
+    </a>
+    <a
+       id="a363"
+       xlink:href="https://www.embarcadero.com"
+       target="_blank"
+       xlink:show=""
+       xlink:title="Embarcadero Industries"
+       transform="translate(-66.897087,-1.1533981)"
+       style="fill:#b3b3b3;opacity:0.3">
+      <path
+         id="rect281"
+         style="fill:#b3b3b3;stroke:#ff0000;stroke-width:0.264583"
+         d="M 69.780586,2.8834951 H 149.36505 V 53.633011 H 69.780586 Z" />
+    </a>
+    <image
+       id="image10" />
+    <image
+       width="88.19445"
+       height="88.19445"
+       preserveAspectRatio="none"
+       xlink:href="https://www.facebook.com/libertadyloquesurja/posts/pfbid036wrSmFgs45m2WMnwFmpuUjof7L1Luqjz1dG7E6s55tWgS37H68UPCKDpyJ1BQ5Lwl"
+       id="image60"
+       x="31.45035"
+       y="91.427048" />
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+ul {
+    background: lightgray;
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+li a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding: 8px 16px;
+}
+li a.activa {
+    color: #fff;
+    background: #04AA04;
+}
+li a:hover:not(.activa) {
+    color: #fff;
+    background: blueviolet;
+}
